@@ -1,11 +1,6 @@
-# Terraform
-.terraform/
-.terraform.lock.hcl
-*.tfstate
-*.tfstate.backup
-crash.log
-override.tf
-override.tf.json
-terraform.tfvars
-*.tfvars.json
+echo ".terraform/" >> .gitignore
+echo "*.tfstate" >> .gitignore
+echo "*.tfstate.backup" >> .gitignore
+echo "crash.log" >> .gitignore
+echo "*.tfvars" >> .gitignore
 
