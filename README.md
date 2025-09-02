@@ -1,6 +1,6 @@
 
 
-# 🌐 Multi-Cloud Auto Deployment using Terraform (AWS + GCP Free Tier)
+#🌐 Multi-Cloud Auto Deployment using Terraform (AWS + GCP Free Tier)
 
 ## 📌 Objective
 Provision resources in **AWS** and **GCP** simultaneously using Terraform and validate **auto-deployment** with a single command.
@@ -38,13 +38,13 @@ Provision resources in **AWS** and **GCP** simultaneously using Terraform and va
 ## ▶️ How to Run
 
 **#Initialize Terraform**
-terraform init
+ terraform init
 
 **#Review the plan**
-terraform plan
-
+ terraform plan
+ 
 **# Deploy resources**
-terraform apply -auto-approve
+ terraform apply -auto-approve
 
 PROJECT STRUCTURE 
 
