@@ -36,7 +36,7 @@ Provision resources in **AWS** and **GCP** simultaneously using Terraform and va
 ---
 
 ## ▶️ How to Run
-bash
+'''bash
 #Initialize Terraform
 terraform init
 
