@@ -36,14 +36,14 @@ Provision resources in **AWS** and **GCP** simultaneously using Terraform and va
 ---
 
 ## ▶️ How to Run
-'''bash
-#Initialize Terraform
+
+**#Initialize Terraform**
 terraform init
 
-#Review the plan
+**#Review the plan**
 terraform plan
 
-# Deploy resources
+**# Deploy resources**
 terraform apply -auto-approve
 
 PROJECT STRUCTURE 
